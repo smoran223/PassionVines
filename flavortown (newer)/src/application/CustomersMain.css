@@ -1,0 +1,60 @@
+#returnButton{
+	-fx-pref-height:40px;
+	-fx-pref-width:115px;
+	-fx-font-size:12px;
+	-fx-background-color:transparent;
+	-fx-border-radius:2;
+}
+#menuButton{
+	-fx-font-size:12px;
+	-fx-background-color:transparent;
+	-fx-border-radius:2;
+}
+#titleHBox{
+	-fx-font-size:30px;
+	-fx-border-width:5px;
+}
+#idLabel{
+	-fx-font-weight:bold;
+	-fx-pref-width:125px;
+	-fx-pref-height:40px;
+	-fx-alignment:center;
+	-fx-font-size:20px;
+}
+#nameLabel{
+	-fx-font-weight:bold;
+	-fx-pref-width:125px;
+	-fx-pref-height:40px;
+	-fx-alignment:center;
+	-fx-font-size:20px;
+}
+#emailLabel{
+	-fx-font-weight:bold;
+	-fx-pref-width:125px;
+	-fx-pref-height:40px;
+	-fx-alignment:center;
+	-fx-font-size:20px;
+}
+#phoneLabel{
+	-fx-font-weight:bold;
+	-fx-pref-width:125px;
+	-fx-pref-height:40px;
+	-fx-alignment:center;
+	-fx-font-size:20px;
+}
+.titleHBox{
+	-fx-pref-width:800px;
+	-fx-font-size:30px;
+	-fx-border-width:5px;
+}
+.label{
+	-fx-font-weight:bold;
+	-fx-pref-width:200px;
+	-fx-pref-height:40px;
+	-fx-alignment:center;
+	-fx-font-size:15px;
+	
+}
+.root{
+	-fx-background-image:url(https://i.imgur.com/rinB3cF.png);
+}
